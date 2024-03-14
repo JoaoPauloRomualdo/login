@@ -34,7 +34,7 @@ Este é um simples sistema de login e cadastro desenvolvido em Python, utilizand
 4. Instale as dependências do projeto. Execute:
 5. Navegue até o diretório do projeto:
 
-## Utilização
+## 💻 Utilização
 <a name="utilizacao"></a>
 
 1. Execute o arquivo `main.py` para iniciar o sistema:
@@ -46,19 +46,19 @@ Este é um simples sistema de login e cadastro desenvolvido em Python, utilizand
 
 3. Selecione a opção desejada e siga as instruções fornecidas pelo sistema.
 
-## Estrutura do Projeto
+## 🏗️ Estrutura do Projeto
 <a name="estrutura-do-projeto"></a>
 - `main.py`: Contém o código principal do sistema, incluindo as funções de login, cadastro e menu.
 - `database.py`: Arquivo que contém a configuração do banco de dados e a definição do modelo `Usuario`.
 - `requirements.txt`: Lista de dependências do projeto.
 - `README.md`: Este arquivo, que fornece informações sobre o projeto e instruções de uso.
 
-## Contribuindo
+## 🤓 Contribuindo
 <a name="contribuindo"></a>
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue para relatar bugs ou sugerir melhorias. Se deseja contribuir com código, por favor abra um pull request.
 
-## Licença
+## 😎 Licença
 <a name="licenca"></a>
 Este projeto está licenciado sob a licença MIT. Consulte o arquivo [LICENSE](LICENSE) para obter mais detalhes.
 
