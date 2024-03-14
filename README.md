@@ -25,7 +25,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Este é um simples sistema de login e cadastro desenvolvido em Python, utilizando o framework ORM Peewee para interagir com um banco de dados SQLite. O sistema permite que os usuários façam login com um email e senha previamente cadastrados ou se cadastrem caso não possuam uma conta.
 
-## Instalação
+## ⚒️ Instalação
 <a name="instalacao"></a>
 
 1. Certifique-se de ter o Python instalado em seu sistema. Você pode baixá-lo em [python.org](https://www.python.org/).
